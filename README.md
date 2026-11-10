@@ -101,3 +101,6 @@ Run the whole notebook, about 3–4 GPU-hours in total.
 Original work: Huang, McKeown, Nakov, Choi and Ji (2023), https://github.com/khuangaf/FakingFakeNews.
 Wikinews content: Wikinews contributors, CC BY 2.5.
 Generative AI (Claude) assisted with drafting code and text. All experiments were run and checked by the author.
+
+## To Run on Google colab directly
+https://colab.research.google.com/github/Atharvach/COMP8240-FakingFakeNews-Assignment_Project/blob/main/COMP8240_pipeline.ipynb
