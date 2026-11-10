@@ -1,0 +1,19 @@
+# Versions recorded in the Colab session used for this project (Python 3.13, Tesla T4)
+torch==2.14.1
+transformers==5.22.2
+scikit-learn==1.6.1
+# Unpinned (Colab defaults at run time)
+accelerate
+bitsandbytes
+datasets
+pandas
+numpy
+scipy
+matplotlib
+requests
+beautifulsoup4
+lxml
+nltk
+tabulate
+openpyxl
+tqdm

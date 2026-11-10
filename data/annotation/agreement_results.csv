@@ -1,0 +1,5 @@
+question,n,kappa_human_vs_judge,agreement_human_vs_judge_%,human_matches_design_%,judge_matches_design_%,kappa_human_vs_design
+contradicts,80,0.34,65.0,67.5,95.0,0.395
+loaded_language,80,-0.147,46.2,46.2,97.5,-0.147
+appeal_to_authority,80,0.424,68.8,65.0,96.2,0.364
+plausible (1-3),80,0.072,35.0,,,

@@ -1,0 +1,48 @@
+{
+  "n_examples": 594,
+  "n_real": 297,
+  "n_fake": 297,
+  "fake_types": {
+    "sent-fake": 100,
+    "loaded-language": 97,
+    "appeal-to-authority": 100
+  },
+  "topics": {
+    "Politics and conflicts": 100,
+    "Crime and law": 39,
+    "Other": 38,
+    "Disasters and accidents": 34,
+    "Culture and entertainment": 23,
+    "Sports": 19,
+    "Health": 12,
+    "Science and technology": 12,
+    "Economy and business": 11,
+    "Transport": 3,
+    "Environment": 3,
+    "Weather": 2,
+    "Education": 1
+  },
+  "pub_years": {
+    "2020": 34,
+    "2021": 58,
+    "2022": 46,
+    "2023": 60,
+    "2024": 28,
+    "2025": 59,
+    "2026": 12
+  },
+  "words_mean": 344.3,
+  "words_median": 282.0,
+  "words_min": 161,
+  "words_max": 1304,
+  "fake_words_changed_pct_mean": 12.66,
+  "generation_attempted": 697,
+  "generation_ok": 677,
+  "nli_mode": "strict",
+  "nli_passed": 363,
+  "nli_distribution": {
+    "CONTRADICTION": 363,
+    "ENTAILMENT": 34,
+    "NEUTRAL": 280
+  }
+}

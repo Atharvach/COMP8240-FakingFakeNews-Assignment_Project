@@ -1,0 +1,62 @@
+# Training log of the replication run used in the report (checkpoint outputs/20261007_142926/best.pt).
+# Command (run from FakingFakeNews/roberta after setup_and_patch.sh):
+#   python train_roberta.py --output_dir <drive>/fakenewsproject/outputs --data_dir ../data/ --max_epoch 10
+# Environment: Google Colab, Tesla T4, Python 3.13, torch 2.14.1+cu130, transformers 5.22.2, scikit-learn 1.6.1.
+# Model-download progress bars and library warnings have been removed; every other line is verbatim.
+100% 628/628 [06:58<00:00,  1.50it/s]
+Trainin Loss: 464.922828
+Dev AUC: 0.5414262820512821. 
+Dev F1: 0.1386861313868613. 
+Saving to /content/drive/MyDrive/fakenewsproject/outputs/20261007_142926/best.pt
+Epoch 0 dev accuracy: 54.14. Best dev accuracy: 54.14.
+100% 628/628 [07:18<00:00,  1.43it/s]
+Trainin Loss: 453.706703
+Dev AUC: 0.5905608974358973. 
+Dev F1: 0.6070287539936102. 
+Saving to /content/drive/MyDrive/fakenewsproject/outputs/20261007_142926/best.pt
+Epoch 1 dev accuracy: 59.06. Best dev accuracy: 59.06.
+100% 628/628 [07:19<00:00,  1.43it/s]
+Trainin Loss: 444.920704
+Dev AUC: 0.6551923076923076. 
+Dev F1: 0.4801980198019802. 
+Saving to /content/drive/MyDrive/fakenewsproject/outputs/20261007_142926/best.pt
+Epoch 2 dev accuracy: 65.52. Best dev accuracy: 65.52.
+100% 628/628 [07:20<00:00,  1.42it/s]
+Trainin Loss: 452.716228
+Dev AUC: 0.5796714743589744. 
+Dev F1: 0.6486486486486487. 
+Epoch 3 dev accuracy: 57.97. Best dev accuracy: 65.52.
+100% 628/628 [07:19<00:00,  1.43it/s]
+Trainin Loss: 444.017725
+Dev AUC: 0.5279246794871795. 
+Dev F1: 0.6170886075949367. 
+Epoch 4 dev accuracy: 52.79. Best dev accuracy: 65.52.
+100% 628/628 [07:18<00:00,  1.43it/s]
+Trainin Loss: 452.368310
+Dev AUC: 0.44868589743589754. 
+Dev F1: 0.0. 
+Epoch 5 dev accuracy: 44.87. Best dev accuracy: 65.52.
+100% 628/628 [07:19<00:00,  1.43it/s]
+Trainin Loss: 444.732914
+Dev AUC: 0.5. 
+Dev F1: 0.6486486486486487. 
+Epoch 6 dev accuracy: 50.00. Best dev accuracy: 65.52.
+100% 628/628 [07:18<00:00,  1.43it/s]
+Trainin Loss: 448.467509
+Dev AUC: 0.49775641025641026. 
+Dev F1: 0.6486486486486487. 
+Epoch 7 dev accuracy: 49.78. Best dev accuracy: 65.52.
+100% 628/628 [07:19<00:00,  1.43it/s]
+Trainin Loss: 439.176350
+Dev AUC: 0.5. 
+Dev F1: 0.6486486486486487. 
+Epoch 8 dev accuracy: 50.00. Best dev accuracy: 65.52.
+100% 628/628 [07:18<00:00,  1.43it/s]
+Trainin Loss: 436.337382
+Dev AUC: 0.5003205128205128. 
+Dev F1: 0.6486486486486487. 
+Epoch 9 dev accuracy: 50.03. Best dev accuracy: 65.52.
+Epoch 9 test accuracy: 44.37. 
+Test AUC: 0.4330066445182724. 
+Test F1: 0.5235223160434258. 
+model path: /content/drive/MyDrive/fakenewsproject/outputs/20261007_142926/best.pt

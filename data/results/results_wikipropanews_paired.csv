@@ -1,0 +1,5 @@
+fake_type,pairs,mean_delta_P_real,pct_pairs_ranked_correctly
+appeal-to-authority,100.0,0.0147,0.65
+loaded-language,97.0,0.0018,0.6495
+sent-fake,100.0,-0.001,0.4
+ALL,297.0,0.0052,0.5657

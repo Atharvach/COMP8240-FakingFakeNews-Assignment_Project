@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pt
+*.bin
+*.safetensors
+FakingFakeNews/
+new_data_out/existing/
+data/existing/
+.ipynb_checkpoints/
+report/*.aux
+report/*.log
+report/*.bbl
+report/*.blg
+report/*.out
